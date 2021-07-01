@@ -1,0 +1,24 @@
+.header {
+    /* border: 2px blue solid; */
+    max-width: calc(100% - (48px*2));
+    margin: 28px auto 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+/* для 1024 такие же отступы, поэтому размер правильно посчитается */
+
+@media screen and (min-width: 768px) and (max-width: 1020px) {
+    .header {
+        max-width: calc(100% - (24px*2));
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .header {
+        max-width: calc(100% - (16px*2));
+        margin-top: 16px;
+    }
+}
