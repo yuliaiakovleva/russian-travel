@@ -1,0 +1,42 @@
+.container__image {
+    width: 100%;
+}
+
+
+@media screen and (max-width: 425px) {
+    .container__image {
+        width: 320px;
+    }
+}
+
+
+@media screen and (min-width: 425px) and (max-width: 767px) {
+    .container__image {
+        width: 330px;
+
+    }
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .container__image {
+        width: 340px;
+    }
+}
+
+
+
+
+ @media screen and (min-width: 1024px) and (max-width: 1279px) {
+    .container__image {
+        width: 440px;
+    }
+}  
+
+@media screen and (min-width: 1280px) {
+    .container__image {
+        width: 460px;
+    }
+    
+}
+

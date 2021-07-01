@@ -1,0 +1,28 @@
+.lead__title {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-size: 96px;
+    line-height: 100px;
+    font-weight: 900;
+    color: #ffffff;
+    max-width: 720px;
+}
+
+
+@media screen and (max-width: 650px) {
+    .lead__title {
+        width: 288px;
+        font-size: 40px;
+        line-height: 44px;
+        /* width: calc(100% - (16px*2));; */
+    }
+}
+
+
+/* @media screen and (max-width: 768px) {
+    .lead__title {
+        width: 288px;
+    } */
+
