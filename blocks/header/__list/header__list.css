@@ -1,0 +1,9 @@
+.header__list {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 3px;   /* для пиксель перфектности  */
+}
+
+

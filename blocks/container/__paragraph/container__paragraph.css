@@ -17,7 +17,7 @@
     }
 }
 
-@media screen and (min-width: 425px) and (max-width: 767px) {
+@media screen and (max-width: 767px) {
     .container__paragraph {
         font-size: 16px;
         line-height: 26px;
@@ -25,10 +25,3 @@
     }
 }
 
-@media screen and (max-width: 425px) {
-    .container__paragraph {
-        font-size: 17px;
-        line-height: 25px;
-        padding: 0 16px 0;
-    }
-}

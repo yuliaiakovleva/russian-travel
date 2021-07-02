@@ -9,7 +9,6 @@
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .container__title {
-        font-weight: 900;
         font-size: 44px;
         line-height: 46px;
     }
@@ -17,7 +16,6 @@
 
 @media screen and (min-width: 425px) and (max-width: 767px) {
     .container__title {
-        font-weight: 900;
         font-size: 28px;
         line-height: 32px;
         padding: 0 16px 0;
@@ -26,7 +24,6 @@
 
 @media screen and (max-width: 425px) {
     .container__title {
-        font-weight: 900;
         font-size: 32px;
         line-height: 35px;
         padding: 0 16px 0;

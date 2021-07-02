@@ -6,25 +6,11 @@
     color: rgba(170, 170, 170, 1);
     margin: 0;
     padding: 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-    .url__url-heading {
-        font-size: 12px;
-        line-height: 12px;
-    }
-}
-
-@media screen and (min-width: 425px) and (max-width: 767px) {
-    .url__url-heading {
-        font-size: 12px;
-        line-height: 12px;
-        padding: 0 16px 0;
-    }
-}
-
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
     .url__url-heading {
         font-size: 12px;
         line-height: 12px;

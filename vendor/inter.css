@@ -9,7 +9,7 @@
        url("../fonts/Inter-Regular.woff") format("woff");
 }
 
-/* а где его использовтаь то? */
+/* подключила */
 @font-face {
   font-family: 'Inter';
   font-style:  normal;

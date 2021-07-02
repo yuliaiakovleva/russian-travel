@@ -1,14 +1,12 @@
-.intro__text {
-    margin: 40px 0 33px;
+.intro__list-item {
     font-family: 'Inter', 'Arial', sans-serif;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 26px;
+    font-size: 12px;
+    line-height: 18px;
 }
 
 @media screen and (max-width: 425px) {
-    .intro__text {
-        line-height: 26.08px;
+    .intro__list-item {
         width: 288px;
     }  
 }

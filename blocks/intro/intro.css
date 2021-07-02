@@ -5,13 +5,13 @@
     margin: 92px 442px 0 148px;
 }
 
- @media screen and (min-width: 1281px) {
+ /* @media screen and (min-width: 1281px) {
      .intro {
          margin: 92px 0 0 228px;
      }
- }
+ } */
 
-@media screen and (min-width: 1024px) and (max-width: 1200px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
     .intro {
         margin: 92px 286px 0 48px;
     }
