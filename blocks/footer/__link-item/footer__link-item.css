@@ -6,6 +6,7 @@
     line-height: 18px;
     font-family: 'Inter', 'Arial', sans-serif;
     margin-right: 18px;
+    transition: opacity 0.5s ease;
 }
 
 .footer__link-item:hover {
