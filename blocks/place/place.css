@@ -23,15 +23,15 @@
     }
 }
 
-@media screen and (min-width: 425px) and (max-width: 767px) {
+@media screen and (max-width: 767px) {
     .place {
         margin: 64px auto 0;
     }
 }
 
-@media screen and (max-width: 425px) {
+/* @media screen and (max-width: 425px) {
     .place {
         margin: 64px auto 0;
     }
-}
+} */
 
