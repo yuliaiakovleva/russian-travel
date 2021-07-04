@@ -12,8 +12,6 @@
 
 @media screen and (max-width: 767px) {
     .url__url-heading {
-        font-size: 12px;
-        line-height: 12px;
         padding: 0 16px 0;
     }
 }
