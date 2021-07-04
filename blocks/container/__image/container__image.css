@@ -13,7 +13,6 @@
 @media screen and (min-width: 425px) and (max-width: 767px) {
     .container__image {
         width: 330px;
-
     }
 }
 
@@ -23,8 +22,6 @@
         width: 340px;
     }
 }
-
-
 
 
  @media screen and (min-width: 1024px) and (max-width: 1279px) {
